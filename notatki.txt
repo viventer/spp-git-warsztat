@@ -1,1 +1,2 @@
 pierwsze kroki z git
+commit to migawka projektu
